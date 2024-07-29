@@ -1,7 +1,7 @@
 # Projeto Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet
 
 ## Descrição
-Projeto co curso Desenvolvimento Java com IA - DIO
+Projeto referente ao curso de Desenvolvimento Java com IA - DIO
 Este projeto simula as funcionalidades básicas de um iPhone, incluindo reprodutor musical, aparelho telefônico, navegador na internet e câmera. Ele foi desenvolvido em Java e implementa várias interfaces para representar essas funcionalidades, foi colocado uma funcionalidade a mais "Câmera".
 
 ## Funcionalidades
